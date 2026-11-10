@@ -99,7 +99,7 @@
   <g:condition>new</g:condition>
   <g:price>90.00 GBP</g:price>
   <g:sale_price>68.00 GBP</g:sale_price>
-  <g:discount_percentage>24</g:discount_percentage>
+  <g:cropink_label_4>24%</g:cropink_label_4>
   <link>https://lequite.example/products/wide-leg-pleated-trousers</link>
   <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-006.png</g:image_link>
   <g:additional_image_link>https://harryjodonnell92-beep.github.io/Lequite/models/le-006-model.png</g:additional_image_link>
@@ -157,7 +157,7 @@
   <g:condition>new</g:condition>
   <g:price>80.00 GBP</g:price>
   <g:sale_price>60.00 GBP</g:sale_price>
-  <g:discount_percentage>25</g:discount_percentage>
+  <g:cropink_label_4>25%</g:cropink_label_4>
   <link>https://lequite.example/products/tailored-midi-skirt</link>
   <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-008.png</g:image_link>
   <g:additional_image_link>https://harryjodonnell92-beep.github.io/Lequite/models/le-008-model.png</g:additional_image_link>
@@ -387,7 +387,7 @@
   <g:condition>new</g:condition>
   <g:price>120.00 GBP</g:price>
   <g:sale_price>90.00 GBP</g:sale_price>
-  <g:discount_percentage>25</g:discount_percentage>
+  <g:cropink_label_4>25%</g:cropink_label_4>
   <link>https://lequite.example/products/the-soft-tote</link>
   <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-018.png</g:image_link>
   <g:additional_image_link>https://harryjodonnell92-beep.github.io/Lequite/models/le-018-model.png</g:additional_image_link>
