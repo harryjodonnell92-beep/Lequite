@@ -28,6 +28,10 @@
   <g:custom_label_2>Oversized Wool Coat</g:custom_label_2>
   <g:custom_label_3>Dropped shoulder, concealed placket</g:custom_label_3>
   <g:custom_label_4>Best seller</g:custom_label_4>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>412</g:cropink_label_1>
+  <g:cropink_label_2>Heavy enough for January, light enough to wear all day. The cut is perfect.</g:cropink_label_2>
+  <g:cropink_label_3>Amelia R., London</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-002</g:id>
@@ -53,55 +57,10 @@
   <g:custom_label_2>Classic Oversized Blazer</g:custom_label_2>
   <g:custom_label_3>Single-breasted, relaxed shoulder</g:custom_label_3>
   <g:custom_label_4>Best seller</g:custom_label_4>
-</item>
-<item>
-  <g:id>LE-003</g:id>
-  <title>L'EQUITE Belted Trench Coat — Stone</title>
-  <description>A double-breasted trench in water-resistant cotton gabardine, finished with a storm flap and self-tie belt.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>160.00 GBP</g:price>
-  <g:sale_price>128.00 GBP</g:sale_price>
-  <g:discount_percentage>20</g:discount_percentage>
-  <link>https://lequite.example/products/belted-trench-coat</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-003.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Clothing &gt; Outerwear &gt; Coats &amp; Jackets</g:google_product_category>
-  <g:product_type>Outerwear</g:product_type>
-  <g:color>Stone</g:color>
-  <g:material>Cotton gabardine</g:material>
-  <g:size>XS–XL</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-003</g:item_group_id>
-  <g:custom_label_0>N°003</g:custom_label_0>
-  <g:custom_label_1>Water-resistant cotton gabardine</g:custom_label_1>
-  <g:custom_label_2>Belted Trench Coat</g:custom_label_2>
-  <g:custom_label_3>Storm flap, self-tie belt</g:custom_label_3>
-</item>
-<item>
-  <g:id>LE-004</g:id>
-  <title>L'EQUITE Cropped Leather Jacket — Espresso</title>
-  <description>A boxy, cropped jacket in soft lambskin, with a concealed front zip and clean, unlined seams.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>195.00 GBP</g:price>
-  <link>https://lequite.example/products/cropped-leather-jacket</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-004.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Clothing &gt; Outerwear &gt; Coats &amp; Jackets</g:google_product_category>
-  <g:product_type>Outerwear</g:product_type>
-  <g:color>Espresso</g:color>
-  <g:material>Leather</g:material>
-  <g:size>XS–L</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-004</g:item_group_id>
-  <g:custom_label_0>N°004</g:custom_label_0>
-  <g:custom_label_1>Soft lambskin leather</g:custom_label_1>
-  <g:custom_label_2>Cropped Leather Jacket</g:custom_label_2>
-  <g:custom_label_3>Boxy crop, concealed zip</g:custom_label_3>
-  <g:custom_label_4>New in</g:custom_label_4>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>318</g:cropink_label_1>
+  <g:cropink_label_2>Oversized without looking borrowed. I wear it with everything.</g:cropink_label_2>
+  <g:cropink_label_3>Clara M., Manchester</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-005</g:id>
@@ -127,6 +86,10 @@
   <g:custom_label_2>Relaxed Tailored Trousers</g:custom_label_2>
   <g:custom_label_3>High rise, single pleat</g:custom_label_3>
   <g:custom_label_4>Best seller</g:custom_label_4>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>286</g:cropink_label_1>
+  <g:cropink_label_2>The single pleat and high rise are spot on. Finally, trousers that fall properly.</g:cropink_label_2>
+  <g:cropink_label_3>Sophie T., Edinburgh</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-006</g:id>
@@ -153,6 +116,10 @@
   <g:custom_label_1>Fluid wool blend</g:custom_label_1>
   <g:custom_label_2>Wide-Leg Pleated Trousers</g:custom_label_2>
   <g:custom_label_3>Double pleat, full leg</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>94</g:cropink_label_1>
+  <g:cropink_label_2>So much movement in the leg. They look tailored but feel like nothing.</g:cropink_label_2>
+  <g:cropink_label_3>Inès D., Paris</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-007</g:id>
@@ -177,6 +144,10 @@
   <g:custom_label_1>Pure new wool</g:custom_label_1>
   <g:custom_label_2>Straight Wool Trousers</g:custom_label_2>
   <g:custom_label_3>Mid rise, pressed crease</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>67</g:cropink_label_1>
+  <g:cropink_label_2>A proper crease that survives a full day. Classic, in the best way.</g:cropink_label_2>
+  <g:cropink_label_3>Hannah K., Bristol</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-008</g:id>
@@ -203,6 +174,10 @@
   <g:custom_label_1>Fluid wool blend</g:custom_label_1>
   <g:custom_label_2>Tailored Midi Skirt</g:custom_label_2>
   <g:custom_label_3>A-line, side zip</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>58</g:cropink_label_1>
+  <g:cropink_label_2>The A-line drapes beautifully and the length works with flats or boots.</g:cropink_label_2>
+  <g:cropink_label_3>Lucia F., Milan</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-009</g:id>
@@ -228,31 +203,10 @@
   <g:custom_label_2>Essential Knit Jumper</g:custom_label_2>
   <g:custom_label_3>Relaxed crew, ribbed trims</g:custom_label_3>
   <g:custom_label_4>Best seller</g:custom_label_4>
-</item>
-<item>
-  <g:id>LE-010</g:id>
-  <title>L'EQUITE Merino Crew Neck — Oxblood</title>
-  <description>A fine-gauge merino crew neck with a close, clean fit. Layers under tailoring.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>70.00 GBP</g:price>
-  <g:sale_price>52.00 GBP</g:sale_price>
-  <g:discount_percentage>26</g:discount_percentage>
-  <link>https://lequite.example/products/merino-crew-neck</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-010.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Clothing &gt; Shirts &amp; Tops</g:google_product_category>
-  <g:product_type>Knitwear</g:product_type>
-  <g:color>Oxblood</g:color>
-  <g:material>Merino wool</g:material>
-  <g:size>XS–XL</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-010</g:item_group_id>
-  <g:custom_label_0>N°010</g:custom_label_0>
-  <g:custom_label_1>Fine-gauge merino</g:custom_label_1>
-  <g:custom_label_2>Merino Crew Neck</g:custom_label_2>
-  <g:custom_label_3>Fine gauge, close fit</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>357</g:cropink_label_1>
+  <g:cropink_label_2>Soft from the first wear, no itch, and the oatmeal goes with everything.</g:cropink_label_2>
+  <g:cropink_label_3>Grace L., Leeds</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-011</g:id>
@@ -278,6 +232,10 @@
   <g:custom_label_2>Ribbed Cardigan</g:custom_label_2>
   <g:custom_label_3>V-neck, horn buttons</g:custom_label_3>
   <g:custom_label_4>New in</g:custom_label_4>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>24</g:cropink_label_1>
+  <g:cropink_label_2>Chunky but not bulky. The horn buttons make it feel expensive.</g:cropink_label_2>
+  <g:cropink_label_3>Mei W., London</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-012</g:id>
@@ -302,6 +260,10 @@
   <g:custom_label_1>Wool and cashmere blend</g:custom_label_1>
   <g:custom_label_2>Cashmere-Blend Roll Neck</g:custom_label_2>
   <g:custom_label_3>Soft roll neck, relaxed body</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>112</g:cropink_label_1>
+  <g:cropink_label_2>The softest roll neck I own. Holds its shape after every wash.</g:cropink_label_2>
+  <g:cropink_label_3>Freya N., Copenhagen</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-013</g:id>
@@ -327,31 +289,10 @@
   <g:custom_label_2>Everyday Structured Shirt</g:custom_label_2>
   <g:custom_label_3>Structured collar, curved hem</g:custom_label_3>
   <g:custom_label_4>Best seller</g:custom_label_4>
-</item>
-<item>
-  <g:id>LE-014</g:id>
-  <title>L'EQUITE Oversized Poplin Shirt — Stone stripe</title>
-  <description>An oversized shirt in fine striped poplin, with dropped shoulders and long, buttoned cuffs.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>60.00 GBP</g:price>
-  <g:sale_price>45.00 GBP</g:sale_price>
-  <g:discount_percentage>25</g:discount_percentage>
-  <link>https://lequite.example/products/oversized-poplin-shirt</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-014.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Clothing &gt; Shirts &amp; Tops</g:google_product_category>
-  <g:product_type>Shirts</g:product_type>
-  <g:color>Stone stripe</g:color>
-  <g:material>Cotton</g:material>
-  <g:size>XS–XL</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-014</g:item_group_id>
-  <g:custom_label_0>N°014</g:custom_label_0>
-  <g:custom_label_1>Striped cotton poplin</g:custom_label_1>
-  <g:custom_label_2>Oversized Poplin Shirt</g:custom_label_2>
-  <g:custom_label_3>Dropped shoulder, long cuffs</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>241</g:cropink_label_1>
+  <g:cropink_label_2>Crisp without being stiff, and the curved hem looks good untucked.</g:cropink_label_2>
+  <g:cropink_label_3>Olivia B., Brighton</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-015</g:id>
@@ -376,6 +317,10 @@
   <g:custom_label_1>Heavyweight cotton jersey</g:custom_label_1>
   <g:custom_label_2>Fine Jersey T-Shirt</g:custom_label_2>
   <g:custom_label_3>Boxy fit, ribbed neck</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>83</g:cropink_label_1>
+  <g:cropink_label_2>A heavyweight tee that actually keeps its shape. I bought two.</g:cropink_label_2>
+  <g:cropink_label_3>Zara P., Birmingham</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-016</g:id>
@@ -401,6 +346,10 @@
   <g:custom_label_2>Minimal Leather Bag</g:custom_label_2>
   <g:custom_label_3>Top handles, magnetic close</g:custom_label_3>
   <g:custom_label_4>Best seller</g:custom_label_4>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>296</g:cropink_label_1>
+  <g:cropink_label_2>Clean, structured and fits everything I need. Compliments every time.</g:cropink_label_2>
+  <g:cropink_label_3>Isabelle G., London</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-017</g:id>
@@ -425,6 +374,10 @@
   <g:custom_label_1>Grained leather</g:custom_label_1>
   <g:custom_label_2>The Structured Tote</g:custom_label_2>
   <g:custom_label_3>Fits a 13" laptop, flat base</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>71</g:cropink_label_1>
+  <g:cropink_label_2>Fits my laptop and still looks elegant on the commute.</g:cropink_label_2>
+  <g:cropink_label_3>Ruth A., Dublin</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-018</g:id>
@@ -451,6 +404,10 @@
   <g:custom_label_1>Supple suede</g:custom_label_1>
   <g:custom_label_2>The Soft Tote</g:custom_label_2>
   <g:custom_label_3>Unlined, folds flat</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>49</g:cropink_label_1>
+  <g:cropink_label_2>The suede is beautiful and it softens the more you use it.</g:cropink_label_2>
+  <g:cropink_label_3>Maya S., Glasgow</g:cropink_label_3>
 </item>
 <item>
   <g:id>LE-019</g:id>
@@ -476,146 +433,10 @@
   <g:custom_label_2>The Arc Shoulder Bag</g:custom_label_2>
   <g:custom_label_3>Curved silhouette, short strap</g:custom_label_3>
   <g:custom_label_4>New in</g:custom_label_4>
-</item>
-<item>
-  <g:id>LE-020</g:id>
-  <title>L'EQUITE The Crescent Bag — Oxblood</title>
-  <description>A soft crescent-shaped bag in nappa leather, gathered at the handle and worn close to the body.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>125.00 GBP</g:price>
-  <link>https://lequite.example/products/the-crescent-bag</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-020.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Handbags</g:google_product_category>
-  <g:product_type>Bags</g:product_type>
-  <g:color>Oxblood</g:color>
-  <g:material>Leather</g:material>
-  <g:size>One size</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-020</g:item_group_id>
-  <g:custom_label_0>N°020</g:custom_label_0>
-  <g:custom_label_1>Soft nappa leather</g:custom_label_1>
-  <g:custom_label_2>The Crescent Bag</g:custom_label_2>
-  <g:custom_label_3>Gathered crescent shape</g:custom_label_3>
-</item>
-<item>
-  <g:id>LE-021</g:id>
-  <title>L'EQUITE The Mini Crossbody — Chocolate</title>
-  <description>A small crossbody with an adjustable strap and two interior card slots.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>85.00 GBP</g:price>
-  <g:sale_price>64.00 GBP</g:sale_price>
-  <g:discount_percentage>25</g:discount_percentage>
-  <link>https://lequite.example/products/the-mini-crossbody</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-021.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Handbags</g:google_product_category>
-  <g:product_type>Bags</g:product_type>
-  <g:color>Chocolate</g:color>
-  <g:material>Leather</g:material>
-  <g:size>One size</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-021</g:item_group_id>
-  <g:custom_label_0>N°021</g:custom_label_0>
-  <g:custom_label_1>Smooth calf leather</g:custom_label_1>
-  <g:custom_label_2>The Mini Crossbody</g:custom_label_2>
-  <g:custom_label_3>Adjustable strap, card slots</g:custom_label_3>
-</item>
-<item>
-  <g:id>LE-022</g:id>
-  <title>L'EQUITE The Carryall — Espresso</title>
-  <description>A generous zip-top carryall in grained leather with rolled handles and a detachable strap.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>165.00 GBP</g:price>
-  <link>https://lequite.example/products/the-carryall</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-022.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Handbags</g:google_product_category>
-  <g:product_type>Bags</g:product_type>
-  <g:color>Espresso</g:color>
-  <g:material>Leather</g:material>
-  <g:size>One size</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-022</g:item_group_id>
-  <g:custom_label_0>N°022</g:custom_label_0>
-  <g:custom_label_1>Grained leather</g:custom_label_1>
-  <g:custom_label_2>The Carryall</g:custom_label_2>
-  <g:custom_label_3>Zip top, detachable strap</g:custom_label_3>
-</item>
-<item>
-  <g:id>LE-023</g:id>
-  <title>L'EQUITE Leather Card Holder — Cognac</title>
-  <description>A slim card holder in smooth calf leather with four card slots and a centre pocket.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>35.00 GBP</g:price>
-  <link>https://lequite.example/products/leather-card-holder</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-023.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Wallets &amp; Money Clips</g:google_product_category>
-  <g:product_type>Small leather goods</g:product_type>
-  <g:color>Cognac</g:color>
-  <g:material>Leather</g:material>
-  <g:size>One size</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-023</g:item_group_id>
-  <g:custom_label_0>N°023</g:custom_label_0>
-  <g:custom_label_1>Smooth calf leather</g:custom_label_1>
-  <g:custom_label_2>Leather Card Holder</g:custom_label_2>
-  <g:custom_label_3>Four card slots, centre pocket</g:custom_label_3>
-</item>
-<item>
-  <g:id>LE-024</g:id>
-  <title>L'EQUITE Leather Belt — Ink</title>
-  <description>A 3 cm belt in smooth calf leather with a brushed silver buckle.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>45.00 GBP</g:price>
-  <link>https://lequite.example/products/leather-belt</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-024.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories &gt; Belts</g:google_product_category>
-  <g:product_type>Accessories</g:product_type>
-  <g:color>Ink</g:color>
-  <g:material>Leather</g:material>
-  <g:size>XS–L</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-024</g:item_group_id>
-  <g:custom_label_0>N°024</g:custom_label_0>
-  <g:custom_label_1>Smooth calf leather</g:custom_label_1>
-  <g:custom_label_2>Leather Belt</g:custom_label_2>
-  <g:custom_label_3>Brushed silver buckle</g:custom_label_3>
-</item>
-<item>
-  <g:id>LE-025</g:id>
-  <title>L'EQUITE Wool Scarf — Oatmeal</title>
-  <description>A generous scarf in brushed lambswool with short fringed ends.</description>
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>55.00 GBP</g:price>
-  <link>https://lequite.example/products/wool-scarf</link>
-  <g:image_link>https://harryjodonnell92-beep.github.io/Lequite/products/le-025.png</g:image_link>
-  <g:brand>L'EQUITE</g:brand>
-  <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories &gt; Scarves &amp; Shawls</g:google_product_category>
-  <g:product_type>Accessories</g:product_type>
-  <g:color>Oatmeal</g:color>
-  <g:material>Wool</g:material>
-  <g:size>One size</g:size>
-  <g:gender>female</g:gender>
-  <g:age_group>adult</g:age_group>
-  <g:item_group_id>LE-025</g:item_group_id>
-  <g:custom_label_0>N°025</g:custom_label_0>
-  <g:custom_label_1>Brushed lambswool</g:custom_label_1>
-  <g:custom_label_2>Wool Scarf</g:custom_label_2>
-  <g:custom_label_3>Generous size, fringed ends</g:custom_label_3>
+  <g:cropink_label_0>5.0</g:cropink_label_0>
+  <g:cropink_label_1>19</g:cropink_label_1>
+  <g:cropink_label_2>The shape is gorgeous and it sits perfectly under the arm.</g:cropink_label_2>
+  <g:cropink_label_3>Camille J., Lyon</g:cropink_label_3>
 </item>
 </channel>
 </rss>
